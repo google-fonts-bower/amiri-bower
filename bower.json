@@ -1,0 +1,17 @@
+{
+    "name": "amiri-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Khaled Hosny"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/amiri-bower.git"
+    },
+    "description": "Amiri font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
